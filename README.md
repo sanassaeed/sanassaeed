@@ -17,8 +17,15 @@
 
 ### Content Information
 Email: sanassaeed03@gbstu.org
+
 Personal Email: sanaseif04@gmail.com
+
 Instagram: sana.ssaeed
+
+### Technical Skills
+	## 🛠 Technology Stack
+	* Python/Makecode
+ 
 **sanassaeed/sanassaeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--
 Here are some ideas to get you started:
