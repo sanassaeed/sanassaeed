@@ -13,7 +13,7 @@
 	   </a>
 </p>
 
-![image](https://github.com/sanassaeed/sanassaeed/assets/158605856/20cbab3e-6dc1-4cc9-91c4-8247f6e4ae12)
+
 
 ### Content Information
 Email: sanassaeed03@gbstu.org
