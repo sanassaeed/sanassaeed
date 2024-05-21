@@ -4,6 +4,7 @@
 - I am a part of MSA, BSU, NHS
 - I love to play tennis on and off the team
 
+### Visual and Interactive Elements
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=sanassaeed&show_icons=true&count_private=true">
 	       <img height=150 src="https://github-readme-stats.vercel.app/api?username=sanassaeed&show_icons=true&count_private=true"/>
