@@ -1,4 +1,6 @@
 ## Hi my name is Sana Saeed 👋
+Hi my name is Sana Saeed and I am currently in 10th grade at Grand Blanc High School. I plan to graduate highschoool, and attend college at the University of Michigan. I want to study science and some form of the medical field. I would like to follow my dreams of being either an orthodontist or a dermatologist!
+
 ### Here are some things you should know about me!
 - I'm currently in 10th grade
 - I am a part of MSA, BSU, NHS
