@@ -1,5 +1,5 @@
-### Hi my name is Sana Saeed 👋
-## Here are some things you should know about me!
+## Hi my name is Sana Saeed 👋
+### Here are some things you should know about me!
 - I'm currently in 10th grade
 - I am a part of MSA, BSU, NHS
 - I love to play tennis on and off the team
@@ -24,9 +24,17 @@ Personal Email: sanaseif04@gmail.com
 Instagram: sana.ssaeed
 
 ### Technical Skills
-	## 🛠 Technology Stack
-	* Python/Makecode
- 
+### 🛠 Technology Stack
+* Python/Makecode
+
+#### Some of my projects...
+https://arcade.makecode.com/S19626-39210-76125-24472 
+
+https://arcade.makecode.com/S81066-33226-81665-53528
+
+https://arcade.makecode.com/S63848-00420-23248-55890
+
+ ### README.md file
 **sanassaeed/sanassaeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--
 Here are some ideas to get you started:
